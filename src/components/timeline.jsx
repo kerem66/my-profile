@@ -54,7 +54,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Military War School<span>2015-2016</span></h2>
+                        <h2>Military Academy<span>2015-2016</span></h2>
                         <p>I have continued my education here after high school. At 2016 all military schools shut down. </p>
                       </div>
                     </div>
